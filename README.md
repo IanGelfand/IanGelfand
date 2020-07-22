@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+I am a Fullstack Software Engineer. I continue to grow my knowledge in new technologies by building
+projects based on them. I am proficient in Javascript, CSS, HTML, SQL/Postgress, Express, Sequelize, Node.js,
+React, Redux. Knowledgeable in REST, NERD, and CRUD applications. Familiar with Plaid API, React Native,
+Chart.js, Materialize CSS, Bootstrap, Petfinder API.
 <!--
 **IanGelfand/IanGelfand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
