@@ -8,7 +8,7 @@ Chart.js, Materialize CSS, Bootstrap, Petfinder API.
 
 
 
-##Projects
+## Projects
 
 Chug Mugs - https://chugmugs.herokuapp.com/
 An e-commerce web app based on selling mugs
