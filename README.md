@@ -9,11 +9,9 @@ Chart.js, Materialize CSS, Bootstrap, Petfinder API.
 
 ## Projects
 
-### Chug Mugs - https://chugmugs.herokuapp.com/
-
-### Cat Adoption App - https://expo.io/@iangelfand/cat-adoption-app
-
-### eBudget - http://ebudget-fsa.herokuapp.com/
+*Chug Mugs - https://chugmugs.herokuapp.com/
+*Cat Adoption App - https://expo.io/@iangelfand/cat-adoption-app
+*eBudget - http://ebudget-fsa.herokuapp.com/
 
 <!--
 **IanGelfand/IanGelfand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
