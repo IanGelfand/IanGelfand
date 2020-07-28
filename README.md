@@ -2,10 +2,9 @@
 
 ## About Me
 
-I am a Fullstack Software Engineer. I continue to grow my knowledge in new technologies by building
-projects based on them. I am proficient in Javascript, CSS, HTML, SQL/Postgress, Express, Sequelize, Node.js,
-React, Redux. Knowledgeable in REST, NERD, and CRUD applications. Familiar with Plaid API, React Native,
-Chart.js, Materialize CSS, Bootstrap, Petfinder API.
+Proficient in: Javascript | CSS | HTML | PostgreSQL | Express | Sequelize | Node.js| React | Redux
+
+Familiar with: Plaid API | React Native | Chart.js | Materialize CSS | Bootstrap
 
 ## Projects
 
