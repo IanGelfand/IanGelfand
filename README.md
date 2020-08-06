@@ -8,7 +8,7 @@ Familiar with: Plaid API | React Native | Chart.js | Materialize CSS | Bootstrap
 
 ## Projects
 
-* [Chug Mugs](ttps://chugmugs.herokuapp.com/)
+* [Chug Mugs](https://chugmugs.herokuapp.com/)
 
 * [Cat Adoption App](https://expo.io/@iangelfand/cat-adoption-app)
 
