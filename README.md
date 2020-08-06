@@ -2,17 +2,19 @@
 
 ## About Me
 
-Proficient in: Javascript | CSS | HTML | PostgreSQL | Express | Sequelize | Node.js | React | Redux
+Skilled in: Javascript | CSS | HTML | PostgreSQL | Express | Sequelize | Node.js | React | Redux
 
 Familiar with: Plaid API | React Native | Chart.js | Materialize CSS | Bootstrap
 
 ## Projects
 
-* Chug Mugs - https://chugmugs.herokuapp.com/
+* [Chug Mugs](ttps://chugmugs.herokuapp.com/)
 
-* Cat Adoption App - https://expo.io/@iangelfand/cat-adoption-app
+* [Cat Adoption App](https://expo.io/@iangelfand/cat-adoption-app)
 
-* eBudget - http://ebudget-fsa.herokuapp.com/
+* [eBudget](http://ebudget-fsa.herokuapp.com/)
+
+* [Space Trivia](https://iangelfand.github.io/Space-Trivia/)
 
 
 <!--
