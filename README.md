@@ -16,6 +16,8 @@ Familiar with: Plaid API | React Native | Chart.js | Materialize CSS | Bootstrap
 
 * [Space Trivia](https://iangelfand.github.io/Space-Trivia/)
 
+* [Animal Bot](https://discord.com/oauth2/authorize?client_id=741519550448664619&scope=bot&permissions=8)
+
 
 <!--
 **IanGelfand/IanGelfand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
