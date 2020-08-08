@@ -16,7 +16,7 @@ Familiar with: Plaid API | React Native | Chart.js | Materialize CSS | Bootstrap
 
 * [Space Trivia](https://iangelfand.github.io/Space-Trivia/)
 
-* [Animal Bot](https://discord.com/oauth2/authorize?client_id=741519550448664619&scope=bot&permissions=8)
+* [Animal Bot](https://discord.com/oauth2/authorize?client_id=741519550448664619&scope=bot&permissions=8)(A discord bot that sends random animal pictures. !info.
 
 
 <!--
