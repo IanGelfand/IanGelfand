@@ -8,9 +8,13 @@ Familiar with: Plaid API | React Native | Chart.js | Materialize CSS | Bootstrap
 
 ## Projects
 
-* [Chug Mugs](https://chugmugs.herokuapp.com/)  [eBudget](http://ebudget-fsa.herokuapp.com/)
+* [Chug Mugs](https://chugmugs.herokuapp.com/)  
 
-* [Cat Adoption App](https://expo.io/@iangelfand/cat-adoption-app) [Space Trivia](https://iangelfand.github.io/Space-Trivia/)
+* [eBudget](http://ebudget-fsa.herokuapp.com/)
+
+* [Cat Adoption App](https://expo.io/@iangelfand/cat-adoption-app) 
+
+* [Space Trivia](https://iangelfand.github.io/Space-Trivia/)
 
 * [Animal Bot](https://discord.com/oauth2/authorize?client_id=741519550448664619&scope=bot&permissions=8) (A discord bot that sends random animal pictures. !info)
 
