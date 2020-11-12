@@ -4,7 +4,7 @@
 
 Skilled in: Javascript | CSS | HTML | PostgreSQL | Express | Sequelize | Node.js | React | Redux
 
-Familiar with: Plaid API | React Native | Chart.js | Materialize CSS | Bootstrap| Discord.js
+Familiar with: Plaid API | React Native | Chart.js | Materialize CSS | Bootstrap | Discord.js
 
 ## Projects
 
