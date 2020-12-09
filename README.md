@@ -4,7 +4,7 @@
 
 Skilled in: [Javascript](https://www.w3schools.com/js/default.asp) | [CSS](https://www.w3schools.com/css/) | [HTML](https://www.w3schools.com/html/) | [PostgreSQL](https://www.postgresql.org) | [Express](https://expressjs.com) | [Sequelize](https://sequelize.org) | [Node.js](https://nodejs.org/en/) | [React](https://reactjs.org) | [Redux](https://redux.js.org) | [Mocha](https://mochajs.org)
 
-Familiar with: Plaid API | React Native | Chart.js | Materialize CSS | Bootstrap | Discord.js
+Familiar with: Firebase | Plaid API | React Native | Chart.js | Materialize CSS | Bootstrap | Discord.js
 
 ## Learn More
 
