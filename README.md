@@ -8,9 +8,7 @@ Familiar with: Plaid API | React Native | Chart.js | Materialize CSS | Bootstrap
 
 ## Learn More
 
-```node
-npx gelfandian
-```
+`npx gelfandian`
 
 ## Projects
 
