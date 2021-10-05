@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [gelfandian.com](gelfandian.com)
 
-- 💬 Ask me about **React, Redux, Express, Mongoose, Sequelize**
+- 💬 Ask me about **React, Redux, Express, Mongoose, Sequelize, Nodejs**
 
 - 📫 How to reach me **gelfandian@gmail.com**
 
