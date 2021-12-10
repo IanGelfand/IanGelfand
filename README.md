@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [gelfandian.com](gelfandian.com)
+- 👨‍💻 All of my projects are available at [gelfandian.com](https://www.gelfandian.com)
 
 - 💬 Ask me about **React, Redux, Express, Mongoose, Sequelize, Nodejs**
 
